@@ -1,7 +1,7 @@
 const menu = [
   {
     id: 1,
-    title: "buttermilk pancakes",
+    title: "buckwheat pancakes",
     category: "breakfast",
     price: 15.99,
     img: "./images/item-1.jpeg",
@@ -9,7 +9,7 @@ const menu = [
   },
   {
     id: 2,
-    title: "diner double",
+    title: "la sauce gombo",
     category: "lunch",
     price: 13.99,
     img: "./images/item-2.jpeg",
@@ -17,7 +17,15 @@ const menu = [
   },
   {
     id: 3,
-    title: "godzilla milkshake",
+    title: "ndolé",
+    category: "shakes",
+    price: 6.99,
+    img: "./images/item-3.jpeg",
+    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+  },
+  {
+    id: 3,
+    title: "black eyed peas",
     category: "shakes",
     price: 6.99,
     img: "./images/item-3.jpeg",
@@ -25,7 +33,7 @@ const menu = [
   },
   {
     id: 4,
-    title: "country delight",
+    title: "stew",
     category: "breakfast",
     price: 20.99,
     img: "./images/item-4.jpeg",
@@ -33,7 +41,7 @@ const menu = [
   },
   {
     id: 5,
-    title: "egg attack",
+    title: "la sauce graines de tournesol",
     category: "lunch",
     price: 22.99,
     img: "./images/item-5.jpeg",
@@ -41,7 +49,7 @@ const menu = [
   },
   {
     id: 6,
-    title: "oreo dream",
+    title: "poulet curry",
     category: "shakes",
     price: 18.99,
     img: "./images/item-6.jpeg",
@@ -49,7 +57,7 @@ const menu = [
   },
   {
     id: 7,
-    title: "bacon overflow",
+    title: "poisson curry",
     category: "breakfast",
     price: 8.99,
     img: "./images/item-7.jpeg",
@@ -57,7 +65,7 @@ const menu = [
   },
   {
     id: 8,
-    title: "american classic",
+    title: "poisson français",
     category: "lunch",
     price: 12.99,
     img: "./images/item-8.jpeg",
@@ -65,7 +73,7 @@ const menu = [
   },
   {
     id: 9,
-    title: "quarantine buddy",
+    title: "poisson naija",
     category: "shakes",
     price: 16.99,
     img: "./images/item-9.jpeg",
