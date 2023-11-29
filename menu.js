@@ -5,7 +5,7 @@ const menu = [
     category: "breakfast",
     price: 15.99,
     img: "./images/item-1.jpeg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed.`,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: "lunch",
     price: 13.99,
     img: "./images/item-2.jpeg",
-    desc: `15 okra, 2 large peppers, 1 onion, small potash, 2 small bitterleaf tips, salt, and meat and water`,
+    desc: `15 okra, 2 large peppers, 1 onion, 2 small bitterleaf tips, salt, and meat and water. If possible small sel gemme (kanwa).`,
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const menu = [
     category: "breakfast",
     price: 20.99,
     img: "./images/item-4.jpeg",
-    desc: `Small tin of tomato paste, onion powder, garlic powder, pepper, basil, mushrooms, diced bell tomatoes, and oil `,
+    desc: `Small tin of tomato paste, onion powder, garlic powder, pepper, basil, mushrooms, diced bell tomatoes, and oil.`,
   },
   {
     id: 5,
@@ -45,7 +45,7 @@ const menu = [
     category: "lunch",
     price: 22.99,
     img: "./images/item-5.jpeg",
-    desc: `2 cups graines de tournesol, 1 onion, 4 tomatoes or 1 can of tomato purée, 2 hot peppers, 160 ml of oil, salt, and water `,
+    desc: `2 cups graines de tournesol, 1 onion, 4 tomatoes or 1 can of tomato purée, 2 hot peppers, 160 ml of oil, salt, and water.`,
   },
   {
     id: 6,
