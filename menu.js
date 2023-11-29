@@ -13,7 +13,7 @@ const menu = [
     category: "lunch",
     price: 13.99,
     img: "./images/item-2.jpeg",
-    desc: `15 okra, 2 large peppers, 1 onion, 2 small bitterleaf tips, salt, and meat and water. If possible small sel gemme (kanwa).`,
+    desc: `15 - 20 okra, 2 large peppers, 1 onion, 2 small bitterleaf tips, salt, and meat and water. If possible small sel gemme (kanwa).`,
   },
   {
     id: 3,
