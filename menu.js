@@ -53,7 +53,7 @@ const menu = [
     category: "shakes",
     price: 18.99,
     img: "./images/item-6.jpeg",
-    desc: `Salt, allspice, cloves, curry, onion purée, garlic purée, ginger, mango, and hot african peppers. Lime, rum, and basil.`,
+    desc: `Salt, allspice, cloves, curry, onion purée, garlic purée, ginger, mango, hot african peppers, and basil.`,
   },
   {
     id: 7,
@@ -69,7 +69,7 @@ const menu = [
     category: "lunch",
     price: 12.99,
     img: "./images/item-8.jpeg",
-    desc: `lemon, salt, pepper, mpu fish spice, basil, and white wine.`,
+    desc: `lemon, salt, pepper, mpu fish spice, and basil.`,
   },
   {
     id: 9,
