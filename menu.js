@@ -5,7 +5,7 @@ const menu = [
     category: "breakfast",
     price: 15.99,
     img: "./images/item-1.jpeg",
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed.`,
+    desc: `Farine de sarrasin, deux œufs et de l'eau .`,
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const menu = [
     category: "shakes",
     price: 6.99,
     img: "./images/item-3.jpeg",
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `feuilles amères, graines de courge.`,
   },
   {
     id: 3,
@@ -41,11 +41,11 @@ const menu = [
   },
   {
     id: 5,
-    title: "la sauce graines de tournesol",
+    title: "gâteau de pistache",
     category: "lunch",
     price: 22.99,
     img: "./images/item-5.jpeg",
-    desc: `2 cups graines de tournesol, 1 onion, 4 tomatoes or 1 can of tomato purée, 2 hot peppers, 160 ml of oil, salt, and water.`,
+    desc: `2 cups graines de courge, des épices, de la viande.`,
   },
   {
     id: 6,
